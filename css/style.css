@@ -26,7 +26,7 @@ body {
 }
 
 .card-1 {
-  height: 30vh;
+  height: 250px;
   border-top: 6px solid #45d3d3;
   border-radius: 10px;
   background: url(../images/icon-supervisor.svg);
@@ -47,7 +47,7 @@ body {
 }
 
 .card-2 {
-  height: 30vh;
+  height: 250px;
   border-top: 6px solid #ea5353;
   border-radius: 10px;
   background: url(../images/icon-team-builder.svg);
@@ -68,7 +68,7 @@ body {
 }
 
 .card-3 {
-  height: 30vh;
+  height: 250px;
   border-top: 6px solid #fcaf4a;
   border-radius: 10px;
   background: url(../images/icon-karma.svg);
@@ -89,7 +89,7 @@ body {
 }
 
 .card-4 {
-  height: 30vh;
+  height: 250px;
   border-top: 6px solid #549ef2;
   border-radius: 10px;
   background: url(../images/icon-calculator.svg);
